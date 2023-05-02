@@ -5,9 +5,7 @@ const Footer = () => {
         href="https://github.com/QurayshSaif/"
         target="_blank"
         rel="noreferrer"
-      >
-        Designed & Built by Catherine &copy;2022
-      </a>
+      ></a>
     </article>
   );
 };

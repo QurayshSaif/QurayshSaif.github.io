@@ -8,7 +8,7 @@ const HeaderPreview = () => {
         <em className="pink-text">Quraysh</em>
         <br></br>web developer
       </h1>
-      <p className="gray-text p-tag">Front End Development</p>
+      <p className="gray-text p-tag">Full Stack Development</p>
       <Link className="pink-text" to="/portfolio">
         Check my work
       </Link>

@@ -1,5 +1,5 @@
 import { Footer } from "../../components/index.js";
-import Certifications from "./Certifications.js";
+// import Certifications from "./Certifications.js";
 import Languages from "./Languages.js";
 import Stack from "./Stack.js";
 import Education from "./Education.js";
@@ -19,7 +19,7 @@ const About = () => {
       <Education />
       <Languages />
       <DownloadResume />
-      <Certifications />
+      {/* <Certifications /> */}
       <ScrollButton />
       <Footer />
     </article>
