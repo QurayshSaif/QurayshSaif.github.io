@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.b78aa3d7.css",
+    "main.js": "/my-portfolio/static/js/main.e97f1686.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/brainflix.png": "/my-portfolio/static/media/brainflix.6f83c46a2624fe717e91.png",
+    "static/media/QurayshSaif-Resume.pdf": "/my-portfolio/static/media/QurayshSaif-Resume.e0ad142d1db2eb52d8cb.pdf",
+    "static/media/career-guide.png": "/my-portfolio/static/media/career-guide.95141fdf6a91a3d0eaaf.png",
+    "static/media/in-stock.png": "/my-portfolio/static/media/in-stock.f8144966e86c06c452db.png",
+    "static/media/coder.svg": "/my-portfolio/static/media/coder.7f872c0f918a8338ca9f0e0919427b70.svg",
+    "static/media/github-pink.svg": "/my-portfolio/static/media/github-pink.c7c6eee746f141b764178a93d7a7fc26.svg",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/linkedin-pink.svg": "/my-portfolio/static/media/linkedin-pink.b29ea34cb1b6783d381461ea1296f836.svg",
+    "main.b78aa3d7.css.map": "/my-portfolio/static/css/main.b78aa3d7.css.map",
+    "main.e97f1686.js.map": "/my-portfolio/static/js/main.e97f1686.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b78aa3d7.css",
+    "static/js/main.e97f1686.js"
+  ]
+}
