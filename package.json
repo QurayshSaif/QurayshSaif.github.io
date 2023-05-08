@@ -1,7 +1,7 @@
 {
-  "name": "my-portfolio",
+  "homepage": "https://qurayshsaif.github.io/",
+  "name": "qurayshsaif.github.io",
   "version": "0.1.0",
-  "homepage": "https://QurayshSaif.github.io",
   "private": true,
   "dependencies": {
     "@graphql-tools/schema": "9.0.1",
