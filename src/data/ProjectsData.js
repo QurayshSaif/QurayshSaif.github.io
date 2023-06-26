@@ -2,8 +2,21 @@ import CareerGuide from "../assets/images/portfolio/career-guide.png";
 import InStock from "../assets/images/portfolio/in-stock.png";
 import BrainFlix from "../assets/images/portfolio/brainflix.png";
 import Hulu from "../assets/images/portfolio/hulu.png";
+import Airbnb from "../assets/images/portfolio/airbnb.png";
 
 const ProjectsPreviewData = [
+  {
+    id: "airbnb",
+    img: Airbnb,
+    name: "Airbnb",
+    stack: ["< Next.js />", "< Tailwind CSS />", "< Mapbox />"],
+    // website link
+    src: "https://airbnb-clone-qurayshsaif.vercel.app/",
+    // github link
+    source: "https://github.com/QurayshSaif/airbnb",
+    description:
+      "Airbnb Clone is a frontend clone application of the Airbnb platform which features a search functionality, date and calender, mapbox functionality, users can use this website across different screen sizes",
+  },
   {
     id: "hulu",
     img: Hulu,
@@ -14,7 +27,7 @@ const ProjectsPreviewData = [
     // github link
     source: "https://github.com/QurayshSaif/hulu-2.0",
     description:
-      "Hulu 2.0 is a clone website of the streaming platform Hulu, users can view the various movie or tv show categories across different screen sizes",
+      "Hulu 2.0 is a frontend clone website of the streaming platform Hulu, users can view the various movie or tv show categories across different screen sizes",
   },
   {
     id: "career-guide",
@@ -67,6 +80,18 @@ const ProjectsPreviewData = [
 ];
 
 const ProjectsData = [
+  {
+    id: "airbnb",
+    img: Airbnb,
+    name: "Airbnb",
+    stack: ["< Next.js />", "< Tailwind CSS />", "< Mapbox />"],
+    // website link
+    src: "https://airbnb-clone-qurayshsaif.vercel.app/",
+    // github link
+    source: "https://github.com/QurayshSaif/airbnb",
+    description:
+      "Airbnb Clone is a frontend clone application of the Airbnb platform which features a search functionality, date and calender, mapbox functionality, users can use this website across different screen sizes",
+  },
   {
     id: "hulu",
     img: Hulu,
