@@ -11,7 +11,7 @@ const ProjectsPreviewData = [
     name: "Airbnb",
     stack: ["< Next.js />", "< Tailwind CSS />", "< Mapbox />"],
     // website link
-    src: "https://airbnb-clone-orcin-seven.vercel.app",
+    src: "https://airbnb2-qurayshsaif.vercel.app/",
     // github link
     source: "https://github.com/QurayshSaif/airbnb",
     description:
@@ -86,7 +86,7 @@ const ProjectsData = [
     name: "Airbnb",
     stack: ["< Next.js />", "< Tailwind CSS />", "< Mapbox />"],
     // website link
-    src: "https://airbnb-clone-orcin-seven.vercel.app",
+    src: "https://airbnb2-qurayshsaif.vercel.app/",
     // github link
     source: "https://github.com/QurayshSaif/airbnb",
     description:
