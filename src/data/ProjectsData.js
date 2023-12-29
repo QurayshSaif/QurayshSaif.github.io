@@ -18,6 +18,18 @@ const ProjectsPreviewData = [
       "Airbnb Clone is a frontend clone application of the Airbnb platform which features a search functionality, date and calender, mapbox functionality, users can use this website across different screen sizes",
   },
   {
+    id: "in-stock",
+    img: InStock,
+    name: "InStock",
+    stack: ["< MySQL />", "< Knex.js />", "< React.js />", "< Express.js />"],
+    // website link
+    src: "https://instock-nhucal.web.app/",
+    // github link
+    source: "https://github.com/QurayshSaif/saturn-instock",
+    description:
+      "InStock is a responsive website to track warehouses and inventory items. Users can add, edit, delete warehouses or inventory items. Collaborated using agile methodology with a group of 4 developers on Jira. Used Gitflow to complete this project efficiently.",
+  },
+  {
     id: "hulu",
     img: Hulu,
     name: "Hulu",
@@ -46,18 +58,6 @@ const ProjectsPreviewData = [
     source: "https://github.com/QurayshSaif/career-guide",
     description:
       "Career Guide is a responsive website for users who are not sure of what career they want to pursue. This website consists of a quiz and a job-search, once the user completes the quiz the user will get a result with top 5 career suggestions based on the answers provided. The user can also do a job-search to see available jobs in that particular career field.",
-  },
-  {
-    id: "in-stock",
-    img: InStock,
-    name: "InStock",
-    stack: ["< MySQL />", "< Knex.js />", "< React.js />", "< Express.js />"],
-    // website link
-    src: "#",
-    // github link
-    source: "https://github.com/QurayshSaif/saturn-instock",
-    description:
-      "InStock is a responsive website to track warehouses and inventory items. Users can add, edit, delete warehouses or inventory items. Collaborated using agile methodology with a group of 4 developers on Jira. Used Gitflow to complete this project efficiently.",
   },
   {
     id: "brainflix",

@@ -20,10 +20,22 @@ const ProjectsPreview = () => {
               ))}
             </section>
             <section className="project-links">
-              <a href={project.src} target="_blank" rel="noreferrer">
+              <a
+                className="project-links-tags"
+                href={project.src}
+                target="_blank"
+                rel="noreferrer"
+              >
+                <span>View Live Project</span>
                 <img src={ExternalLink} alt="External link icon"></img>
               </a>
-              <a href={project.source} target="_blank" rel="noreferrer">
+              <a
+                className="project-links-tags"
+                href={project.source}
+                target="_blank"
+                rel="noreferrer"
+              >
+                <span>View Code</span>
                 <img src={GithubRepo} alt="Github icon"></img>
               </a>
             </section>
